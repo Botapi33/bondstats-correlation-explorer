@@ -1,0 +1,26 @@
+{
+  "updated": "2026-09-05T00:00:00Z",
+  "source": "FRED",
+  "series": [
+    {"id":"DGS2","label":"US 2Y Treasury Yield","group":"Rates","unit":"%"},
+    {"id":"DGS10","label":"US 10Y Treasury Yield","group":"Rates","unit":"%"},
+    {"id":"DGS30","label":"US 30Y Treasury Yield","group":"Rates","unit":"%"},
+    {"id":"T10Y2Y","label":"US 10Y–2Y Curve","group":"Curves","unit":"pp"},
+    {"id":"T10Y3M","label":"US 10Y–3M Curve","group":"Curves","unit":"pp"},
+    {"id":"DFII10","label":"US 10Y Real Yield","group":"Rates","unit":"%"},
+    {"id":"T10YIE","label":"US 10Y Breakeven Inflation","group":"Inflation","unit":"%"},
+    {"id":"BAMLH0A0HYM2","label":"US High Yield OAS","group":"Credit","unit":"%"},
+    {"id":"BAMLC0A0CM","label":"US Corporate OAS","group":"Credit","unit":"%"},
+    {"id":"VIXCLS","label":"VIX","group":"Risk","unit":"index"},
+    {"id":"SP500","label":"S&P 500","group":"Risk Assets","unit":"index"},
+    {"id":"NASDAQCOM","label":"Nasdaq Composite","group":"Risk Assets","unit":"index"},
+    {"id":"DEXUSEU","label":"USD per EUR","group":"FX","unit":"USD"},
+    {"id":"DTWEXBGS","label":"Trade-Weighted US Dollar","group":"FX","unit":"index"},
+    {"id":"DCOILWTICO","label":"WTI Crude Oil","group":"Commodities","unit":"USD"},
+    {"id":"GOLDAMGBD228NLBM","label":"Gold Price","group":"Commodities","unit":"USD"},
+    {"id":"WALCL","label":"Federal Reserve Total Assets","group":"Liquidity","unit":"USD mn"},
+    {"id":"RRPONTSYD","label":"Fed Overnight Reverse Repo","group":"Liquidity","unit":"USD bn"},
+    {"id":"WTREGEN","label":"Treasury General Account","group":"Liquidity","unit":"USD bn"},
+    {"id":"EFFR","label":"Effective Federal Funds Rate","group":"Money Markets","unit":"%"}
+  ]
+}
